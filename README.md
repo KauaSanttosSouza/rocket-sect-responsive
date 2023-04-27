@@ -1,4 +1,4 @@
-# ROCKET SECT
+<h1 align="center"> ROCKET SECT </h1>
 
 Este código consiste em uma página web simples construída com HTML e estilizada com CSS.
 <p>  </p>
